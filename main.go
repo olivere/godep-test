@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"gopkg.in/olivere/elastic.v3"
+	"github.com/olivere/godep-test/Godeps/_workspace/src/gopkg.in/olivere/elastic.v3"
 )
 
 func main() {

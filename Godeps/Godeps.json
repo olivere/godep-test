@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/olivere/godep-test",
+	"GoVersion": "go1.5.2",
+	"Deps": [
+		{
+			"ImportPath": "gopkg.in/olivere/elastic.v3",
+			"Comment": "v3.0.11",
+			"Rev": "c10e0836b7df4aa7ca1541aafc5c583e1c03d4c3"
+		}
+	]
+}
